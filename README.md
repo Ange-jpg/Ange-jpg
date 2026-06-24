@@ -102,6 +102,26 @@ Participación en el desarrollo de soluciones digitales para ciudadanía y depen
 * Rediseño de experiencia de usuario
 
 ---
+## 🛒 Escrucero de Corporativo Chedraui
+### Analista Programador
+
+**2024 - 2025**
+
+Participación en el área de análisis y operaciones para sistemas retail de gran escala.
+
+### Responsabilidades
+
+- Soporte y monitoreo de terminales POS.
+- Administración de Transaction Logs (TLOG).
+- Automatización mediante Java y Batch Scripts.
+- Configuración de interfaces XML para sistemas de cajas.
+- Diagnóstico y corrección de incidencias técnicas.
+- Validación de procesos de venta y transacciones.
+- Monitoreo de infraestructura y conectividad.
+
+### Tecnologías utilizadas
+
+Java • XML • Batch • FTP • Eclipse • POS Systems • SAP
 
 # 📈 Impacto
 
