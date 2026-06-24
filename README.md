@@ -50,7 +50,7 @@ Actualmente participo en el desarrollo de plataformas para gobierno, sistemas em
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ange-jpg/Ange-jpg/main/assets/sobremesa-logo.png" width="220"/>
+<img src="assets/logo.jpeg" width="220"/>
 
 ## SobreMesa
 
